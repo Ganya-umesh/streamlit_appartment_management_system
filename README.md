@@ -6,16 +6,23 @@ This Streamlit-based application is designed to streamline apartment management 
 Getting Started
 
 1)Clone the repository
-```git clone https://github.com/Ganya-umesh/streamlit_apartment_management_system.git```
+```git clone https://github.com/Ganya-umesh/streamlit_apartment_management_system.git
+```
+
 2)Navigate to the Source Code Directory:
-```cd streamlit_apartment_management_system/src```
+```cd streamlit_apartment_management_system/src
+```
 3)Install Dependencies:
-```pip install -r requirements.txt```
+```pip install -r requirements.txt
+```
 4)Update Database Configuration:
     --Open database.py.
     --Change the default password to 'user password' to match your MySQL configuration.
+
 5)Run the Application:
-```streamlit run main.py```
+```streamlit run main.py
+```
+
 6)Login:
   --Access the application using the login credentials found in the 'auth' table.
   --Choose between the roles: admin, security, or resident.
