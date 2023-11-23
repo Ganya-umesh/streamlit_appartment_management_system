@@ -33,3 +33,10 @@ This Streamlit-based application is designed to streamline apartment management 
 6. **Login:**
     - Access the application using the login credentials found in the 'auth' table.
     - Choose between the roles: admin, security, or resident.
+
+
+<img width="956" alt="Screenshot 2023-11-23 180129" src="https://github.com/Ganya-umesh/streamlit_appartment_management_system/assets/118112049/27e2195b-bdae-4b6f-85c0-774d1f6423bf">
+
+<img width="960" alt="Screenshot 2023-11-23 182001" src="https://github.com/Ganya-umesh/streamlit_appartment_management_system/assets/118112049/9c783d57-b6e5-461e-a532-c021400b6593">
+
+<img width="959" alt="Screenshot 2023-11-23 182051" src="https://github.com/Ganya-umesh/streamlit_appartment_management_system/assets/118112049/d9b1fbe5-e1d3-4c86-b051-3051ac89a6ad">
